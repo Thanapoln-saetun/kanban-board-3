@@ -1,0 +1,6 @@
+This is task 1.
+Created on 2026-04-15.
+
+Description: A sample task file for the kanban board project.
+Status: Pending
+Priority: Medium
