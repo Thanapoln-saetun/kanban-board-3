@@ -1,0 +1,10 @@
+Task 2: Complete the project setup
+
+This is a simple task file for tracking progress.
+Status: In Progress
+Priority: High
+
+Description:
+- Set up the development environment
+- Install all required dependencies
+- Configure the project settings
